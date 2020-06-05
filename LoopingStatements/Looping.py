@@ -94,3 +94,7 @@ while x<6:
 else :
     pass
     print("end")
+
+
+name= input('enter a name')
+print(name)
